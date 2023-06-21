@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-21 06:28:05</sys_created_on>
+        <sys_id>cef07dbd4767e110de6192c7536d4301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_881317_snow_app_employee.x_881317_snow_app.employee_user</sys_name>
+        <sys_package display_value="snow-app" source="x_881317_snow_app">6320b5f507a7211027f6fa7f7c1ed08c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snow-app">6320b5f507a7211027f6fa7f7c1ed08c</sys_scope>
+        <sys_security_acl display_value="x_881317_snow_app_employee">82f03dbd4767e110de6192c7536d43ff</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cef07dbd4767e110de6192c7536d4301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-21 06:28:05</sys_updated_on>
+        <sys_user_role display_value="x_881317_snow_app.employee_user" name="x_881317_snow_app.employee_user">f5f079fd47a3e110de6192c7536d4368</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

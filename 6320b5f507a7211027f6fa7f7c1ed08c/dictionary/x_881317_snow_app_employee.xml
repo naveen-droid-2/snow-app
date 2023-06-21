@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="39c0f5bd4767e110de6192c7536d4333" label="employee" max_length="40" name="x_881317_snow_app_employee" type="collection">
+        <element label="Designation" max_length="40" name="designation" type="string"/>
+        <element label="Id" max_length="40" name="id" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
